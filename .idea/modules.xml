@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/04 Build It Bigger.iml" filepath="$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/04 Build It Bigger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/app/app.iml" filepath="$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/backend/backend.iml" filepath="$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/jokejavaprovider/jokejavaprovider.iml" filepath="$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/jokejavaprovider/jokejavaprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/jokeshower/jokeshower.iml" filepath="$PROJECT_DIR$/../../../../../../../../../Data/Ext Projects/Udacity/AND/04 Build It Bigger/jokeshower/jokeshower.iml" />
+    </modules>
+  </component>
+</project>
